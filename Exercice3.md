@@ -36,6 +36,7 @@ fg %1
 `Get-ChildItem`  
 
 #### 9 )
+Données transportées, véhiculées par la trame.
 
 #### 10 )
 
