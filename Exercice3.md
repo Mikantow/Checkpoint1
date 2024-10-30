@@ -1,6 +1,7 @@
 #### 1 ) 
- `cat /etc/passwd`
- `cut -d: -f1 /etc/passwd` (pour avoir uniquement le nom des ulilisateurs)
+    cat /etc/passwd  
+    cut -d: -f1 /etc/passwd  
+(pour avoir uniquement le nom des ulilisateurs)
 
 #### 2 ) 
 `chmod 744`
