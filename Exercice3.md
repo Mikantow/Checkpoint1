@@ -4,7 +4,8 @@
 (pour avoir uniquement le nom des ulilisateurs)
 
 #### 2 ) 
-`chmod 744`
+
+    chmod 744
 
 #### 3 )
 Crer un fichier .gitignore dans notre depo local git et ajouter les noms des fichiers pdf ou bien *.pdf dans le fichier .gitignore.
@@ -13,10 +14,12 @@ Crer un fichier .gitignore dans notre depo local git et ajouter les noms des fic
 La commande git merge pour fusionner les branches.
 
 #Se positionner sur la branche main  
-`git checkout main`
+
+    git checkout main
 
 #Fusionner test_valide dans main  
-`git merge test_valide`
+    
+    git merge test_valide
 
 #### 5 )
 echo ' "Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :
@@ -26,7 +29,7 @@ echo ' "Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :
 - "Evidemment !" '
 
 #### 6 )
-fg %1
+    fg %1
 
 #### 7 )
 
