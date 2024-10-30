@@ -25,7 +25,7 @@ echo ' "Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :
 - "Evidemment !" '
 
 #### 6 )
-ps -C gedit
+fg %1
 
 #### 7 )
 
