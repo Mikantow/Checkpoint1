@@ -29,6 +29,10 @@ fg %1
 
 #### 7 )
 
+**Couche 2 (Liaison de données) :** Communication au sein d’un même réseau local. Adressage physique (adresse MAC)
+
+**Couche 3 (Réseau) :** 	Détermine le parcours des données et l'adressage logique (adresse IP)
+
 #### 8 )
 `Set-Location`  
 `Copy-Item`  
