@@ -47,4 +47,4 @@ echo ' "Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :
 Données transportées, véhiculées par la trame.
 
 #### 10 )
-
+Le CIDR permet de réduire le gaspillage d'adresse IP et d'avoir des sous-réseaux.
